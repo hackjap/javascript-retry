@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        var numbers = [12,35,27,17];
+
+        // for-in
+
+        // ex)1 
+        for(var i in numbers){
+            console.log(numbers[i]);
+        }
+
+        // ex)2
+        var person = {
+            firstName : "John",
+            LastName : "Doe",
+            age : 24,
+        }
+        for(var key in person){
+            console.log(person[key]);
+        }
+
+        // for-of
+
+        for(var num of numbers){
+            console.log(num);
+        }
+
+        // for-in,for-of문은 처음부터 끝까지 읽는다는 특징이 있음 
+
+        
+
+    </script>
+</body>
+</html>

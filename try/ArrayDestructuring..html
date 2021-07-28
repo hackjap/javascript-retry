@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        function getScores(){
+            return [70,80,90];
+        }
+
+
+        var [x,y,z] = getScores();
+        console.log(x);
+        console.log(y);
+        console.log(z);
+        
+
+        // 살무에서 위도,경도 처리할때 엄청나게 유용하게 사용
+
+        // function getLocation(){
+        //     return[123.12,34.123]
+        // };
+        // var [lat,log] = getLocation();
+        // console.log(lat,log);
+
+        
+        var geo = 
+                [
+                    [36.123,123.23],
+                    [123.12,124.22],
+                    [123.21,1123.2]
+                ]
+
+        
+        var lat=[], log=[];
+
+        for(var i in geo){
+            [lat[i],log[i]] = geo[i];
+        }
+
+        // [lat,log] = geo[0];
+        // console.log(lat,log);
+
+        for(var i in geo){
+            console.log(lat[i],log[i]);
+        }
+
+
+
+
+
+
+
+
+
+
+    </script>
+</body>
+</html>
