@@ -15,4 +15,6 @@
 # Jenkins 
 # istio 
 # php
-# pod 
+# pod
+# Hash
+# MD5
