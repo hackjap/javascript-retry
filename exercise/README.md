@@ -22,3 +22,5 @@
 # RSA
 # git
 # stash
+# elastic 
+# kibana
