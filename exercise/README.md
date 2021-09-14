@@ -26,3 +26,5 @@
 # kibana
 # Vault
 # Harbor
+# kafuka
+# rabitmq
