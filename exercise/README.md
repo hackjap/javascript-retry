@@ -31,3 +31,5 @@
 # keycloak
 # MariaDB
 # Radis
+# Maven
+# SE Linux
