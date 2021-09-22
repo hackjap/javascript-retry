@@ -35,3 +35,5 @@
 # SE Linux
 # Firebase
 # Socket
+# Vuetify
+# 
