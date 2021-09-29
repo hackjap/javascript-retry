@@ -41,3 +41,5 @@
 # messageQ
 # beats
 # kafuka
+# bare-metal
+# cloud-foundry
