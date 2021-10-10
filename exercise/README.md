@@ -50,3 +50,4 @@
 # HealthCheck
 # Hypervisor
 # floating ip
+# viewResolver
