@@ -51,3 +51,4 @@
 # Hypervisor
 # floating ip
 # viewResolver
+# volume
