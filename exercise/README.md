@@ -52,3 +52,5 @@
 # floating ip
 # viewResolver
 # volume
+# selenium
+# ansible
