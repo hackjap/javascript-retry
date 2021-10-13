@@ -54,3 +54,4 @@
 # volume
 # selenium
 # ansible
+# hibernate
