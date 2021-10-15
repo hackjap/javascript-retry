@@ -57,4 +57,6 @@
 # hibernate
 # ocp
 # rhosp
+# openstack
+# Baremetal
 
