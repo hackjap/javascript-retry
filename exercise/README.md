@@ -60,3 +60,5 @@
 # openstack
 # Baremetal
 # ASPIRE
+# cloudstack
+# openshift
