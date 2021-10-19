@@ -63,4 +63,6 @@
 # cloudstack
 # openshift
 # helm
-# 
+# tempg
+# openstack4j
+# nova
