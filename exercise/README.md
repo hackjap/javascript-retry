@@ -72,3 +72,5 @@
 # Aria
 # proxy
 # facade
+# bridge
+# 
