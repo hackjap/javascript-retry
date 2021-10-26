@@ -73,4 +73,4 @@
 # proxy
 # facade
 # bridge
-# 
+# composite
