@@ -76,4 +76,6 @@
 # composite
 # facade
 # swagger
+# chef
+# strategy
 # 
