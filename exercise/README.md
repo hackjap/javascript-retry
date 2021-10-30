@@ -78,4 +78,5 @@
 # swagger
 # chef
 # strategy
-# 
+# clean
+# javadoc
